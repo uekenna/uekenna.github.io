@@ -6,3 +6,12 @@ flowchat TD
 A[\_Study for classes_/] --> B[\_Pass exams_/] --> C[\_Receive Degree_/] --> D[\_Apply for job of you choosing_/]
 
 '''
+
+*A* Read over notes and powerpoints
+
+*B* Be prepared for exam
+
+*C* Pass all exams
+
+*D* Network with people on LinkedIn
+ 
