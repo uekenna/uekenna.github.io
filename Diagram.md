@@ -1,4 +1,4 @@
-## Road to Success Diagram
+# Road to Success Diagram
 
 ```mermaid
 flowchart TD
